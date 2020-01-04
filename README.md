@@ -1,7 +1,7 @@
 <h1 align="center">Logo Interpreter</h1>
-<p align="center"><i> https://ssrbazpur.github.io/Logo-Interpreter/ </i> </p>
-<center>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Remi_turtlegrafik.png" align="center">/></center>
+<p align="center"><i> https://ssrbazpur.github.io/Logo-Interpreter/ </i> <br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Remi_turtlegrafik.png" align="center"></p>
 <br>
 <p>Logo is a simple programming language devised by Seymour Papert for educational purposes. A user can control the movement of a turtle which draws lines on the screen. There are four basic commands in Logo language:</p>
 
